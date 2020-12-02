@@ -1,1 +1,3 @@
-# reaper-appimage
+# Reaper AppImage
+
+Script to pack Reaper to AppImage.
